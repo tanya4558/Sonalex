@@ -2,7 +2,7 @@ import React from 'react'
 
 const phoneNumber = '+917359462743'
 const formattedPhoneNumber = '+91 73594 62743'
-const emailAddress = 'texla351@gmail.con'
+const emailAddress = 'texla351@gmail.com'
 const products = [
   {
     id: 'floral-personal',
